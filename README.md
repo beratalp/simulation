@@ -30,3 +30,5 @@ SciPy layer, for making arithmetic operations easily and quickly.
 And the Python, I love Python because it's so dev-friendly and fast. If I will have things that making in Python is impossible, I can even use C++.
 
 You can find full algorithm in source code.
+
+2013 Berat Alp Erbil
