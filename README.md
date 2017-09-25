@@ -21,14 +21,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 You can find full license in source codes master branch.
 
-Algorithm
-=========
-
-This simulator have 4 layers. The GUI, that designed in QT; for easy to use. You can browse designs from source codes.
-PyGame layer, modeling, simulating and animating the simulation. I used pygame cuz' it's easy and dev-friendly. Why bother to building my graphic motor, ha? :D
-SciPy layer, for making arithmetic operations easily and quickly.
-And the Python, I love Python because it's so dev-friendly and fast. If I will have things that making in Python is impossible, I can even use C++.
-
-You can find full algorithm in source code.
-
 2013 Berat Alp Erbil
